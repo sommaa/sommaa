@@ -25,7 +25,6 @@
 ![IDE](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
   
 </div>
-<br>
 
 <div align="center">
     <h3>:rocket:Help me wasting my time!:rocket:</h3>
