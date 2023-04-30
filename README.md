@@ -29,10 +29,10 @@
 
     
 <div align="center">
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sommaa)](https://github.com/anuraghazra/github-readme-stats)   
 
-</div>
+<a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sommaa)](https://github.com/anuraghazra/github-readme-stats)</a> 
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sommaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
+
 </div>
 
 <div align="center">
