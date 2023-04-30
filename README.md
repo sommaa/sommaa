@@ -23,8 +23,16 @@
 ![Ill](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Ph](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Hysis](https://img.shields.io/badge/AspenHysis-d6c024.svg?&style=for-the-badge&logo=OPENFOAM&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![IDE](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-  
+
+    
+<div align="center">
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sommaa)](https://github.com/anuraghazra/github-readme-stats)   
+
+</div>
 </div>
 
 <div align="center">
@@ -32,5 +40,3 @@
 <a href='https://ko-fi.com/sommaa' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 </div>
-    
-
