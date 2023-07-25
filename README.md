@@ -30,7 +30,7 @@
     
 <div align="center">
 
-<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sommaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sommaa&layout=compact)</a>
 
 </div>
 
