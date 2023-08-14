@@ -9,7 +9,7 @@
            /____/                                  
 ```
 </div >
-
+<h3 align="center">Used Programming Languages</h3>
 <div align="center">
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-e86e05?style=for-the-badge&logo=Octave&logoColor=white)
@@ -26,11 +26,6 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![IDE](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-    
-<div align="center">
-
-<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sommaa&layout=compact)</a>
 
 </div>
 
