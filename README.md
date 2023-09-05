@@ -10,7 +10,7 @@
 ```
 </div >
 
-<h3 align="center">Used Programming Languages</h3>
+<h3 align="center">Skills</h3>
 <div align="center">
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-e86e05?style=for-the-badge&logo=Octave&logoColor=white)
